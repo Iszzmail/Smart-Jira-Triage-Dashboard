@@ -61,7 +61,6 @@ const ISSUE_UPDATED_DATE_COLUMN_HEADER = "Updated";
 // Replace with your actual Jira URL
 const JIRA_INSTANCE_URL = "https://YOUR_DOMAIN.atlassian.net";
 
-.
 
 📖 How to Use
 Open your Google Sheet. The custom menu Jira Dashboard Tools will appear at the top.
