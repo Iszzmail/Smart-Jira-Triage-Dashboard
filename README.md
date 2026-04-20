@@ -63,12 +63,9 @@ const JIRA_INSTANCE_URL = "https://YOUR_DOMAIN.atlassian.net";
 
 
 📖 How to Use
-Open your Google Sheet. The custom menu Jira Dashboard Tools will appear at the top.
 
-Click Jira Dashboard Tools > Run Update to manually force a sync.
-
-Switch to the JiraDashboardData sheet.
-
-Any ticket with a new comment or update since you last checked will be highlighted.
-
-Read the comment, then click the Mark Read checkbox. The highlight will instantly disappear, and the system will log that you have reviewed it up to that specific timestamp.
+1.Open your Google Sheet. The custom menu Jira Dashboard Tools will appear at the top.
+2.Click Jira Dashboard Tools > Run Update to manually force a sync.
+3.Switch to the JiraDashboardData sheet.
+4.Any ticket with a new comment or update since you last checked will be highlighted.
+5.Read the comment, then click the Mark Read checkbox. The highlight will instantly disappear, and the system will log that you have reviewed it up to that specific timestamp.
