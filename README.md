@@ -15,6 +15,9 @@ This project solves that bottleneck by transforming a chaotic raw Jira data expo
 * **Zero-Latency UX (Interactive UI):** Features an interactive "Mark Read" checkbox column powered by `onEdit` triggers. Clicking the checkbox instantly removes the highlight and commits the new timestamp to memory—no waiting for the next hourly data sync.
 * **Dynamic Deep Linking:** Automatically generates clickable hyperlinks to the exact Jira ticket for seamless navigation.
 
+* <img width="1573" height="807" alt="image" src="https://github.com/user-attachments/assets/2dfd1883-ea43-4d9b-8a24-f8c0002d08cb" />
+
+
 ## 🛠️ Tech Stack
 
 * **Google Apps Script (JavaScript):** Core automation, data parsing, and persistent state management.
